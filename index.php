@@ -47,7 +47,7 @@ if (isset($_POST["submit"])) {
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-ite">
-            <img src="himasar.png" width="50" alt="">
+            <img src="img/himasar.png" width="50" alt="">
           </li>
 
           <li class="nav-item">
@@ -77,13 +77,13 @@ if (isset($_POST["submit"])) {
   <div id="carouselExampleFade" class="carousel slide carousel-fade">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="info.jpg" class="d-block w-100" alt="...">
+        <img src="img/info.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="ada.jpg" class="d-block w-100" alt="...">
+        <img src="img/ada.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="ndd.jpg.webp" class="d-block w-100" alt="...">
+        <img src="img/ndd.jpg.webp" class="d-block w-100" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -105,7 +105,7 @@ if (isset($_POST["submit"])) {
           <div class="row">
             <div class="col-md-4">
               <div class="card">
-                <img src="pelualangan.jpg.webp" class="card-img-top" alt="">
+                <img src="img/pelualangan.jpg.webp" class="card-img-top" alt="">
                 <div class="card-body">
                   <span class="card-date">11 September 2024</span>
                   <h5 class="card-title mt-1">Paket Petualangan Alam Ekstrem</h5>
@@ -116,7 +116,7 @@ if (isset($_POST["submit"])) {
             </div>
             <div class="col-md-4">
               <div class="card">
-                <img src="alam.jpg" class="card-img-top" alt="">
+                <img src="img/alam.jpg" class="card-img-top" alt="">
                 <div class="card-body">
                   <span class="card-date">11 September 2024</span>
                   <h5 class="card-title mt-1">Paket Wisata Alam dan Budaya</h5>
@@ -127,7 +127,7 @@ if (isset($_POST["submit"])) {
             </div>
             <div class="col-md-4">
               <div class="card">
-                <img src="keluarga.jpg.webp" class="card-img-top" alt="">
+                <img src="img/keluarga.jpg.webp" class="card-img-top" alt="">
                 <div class="card-body">
                   <span class="card-date">11 September 2024</span>
                   <h5 class="card-title mt-1">Paket Wisata Keluarga</h5>
